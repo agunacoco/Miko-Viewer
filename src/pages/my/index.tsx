@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { Box, Flex, Heading, HStack, Input, Text, VStack } from '@chakra-ui/react';
 import Footer from '@src/components/home/Footer';
 import MenuBar from '@src/components/home/MenuBar';
@@ -42,6 +43,8 @@ const Index = (params) => {
 
 export default Index;
 =======
+=======
+>>>>>>> origin/main
 import { Box, Text } from '@chakra-ui/react';
 import { useRouter } from 'next/router';
 
@@ -56,4 +59,7 @@ const MyPage = (second) => {
 };
 
 export default MyPage;
+<<<<<<< HEAD
 >>>>>>> 68ade93ab0af8290bc77b3991905b8abf2d4463d
+=======
+>>>>>>> origin/main

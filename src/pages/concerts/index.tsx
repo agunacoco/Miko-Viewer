@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { Box, Button, Flex, Heading, HStack, Input, VStack } from '@chakra-ui/react';
 import Category from '@src/components/Category';
 import ConcertList from '@src/components/home/ConcertList';
@@ -120,6 +121,8 @@ export async function getServerSideProps(context) {
 
 }
 =======
+=======
+>>>>>>> origin/main
 import { Box, Text } from '@chakra-ui/react';
 import { useRouter } from 'next/router';
 
@@ -134,4 +137,7 @@ const ConcertPage = (second) => {
 };
 
 export default ConcertPage;
+<<<<<<< HEAD
 >>>>>>> 68ade93ab0af8290bc77b3991905b8abf2d4463d
+=======
+>>>>>>> origin/main

@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import { Box, Button, Collapse, Heading, HStack, Text, VStack } from '@chakra-ui/react';
 import Footer from '@src/components/home/Footer';
 import MenuBar from '@src/components/home/MenuBar';
@@ -210,6 +211,8 @@ LiveDetailPage.getInitialProps = async (context) => {
 
 export default LiveDetailPage;
 =======
+=======
+>>>>>>> origin/main
 import { Box, Text } from '@chakra-ui/react';
 import { useRouter } from 'next/router';
 
@@ -224,4 +227,7 @@ const ConcertDetailPage = (second) => {
 };
 
 export default ConcertDetailPage;
+<<<<<<< HEAD
 >>>>>>> 68ade93ab0af8290bc77b3991905b8abf2d4463d
+=======
+>>>>>>> origin/main

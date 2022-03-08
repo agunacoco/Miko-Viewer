@@ -63,7 +63,10 @@ const ConcertList = (params) => {
   const concerts = data.data;
 =======
   const [isLargerThan960] = useMediaQuery('(min-width: 960px)');
+<<<<<<< HEAD
 >>>>>>> 68ade93ab0af8290bc77b3991905b8abf2d4463d
+=======
+>>>>>>> origin/main
 
   return (
     <div>
